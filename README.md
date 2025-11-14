@@ -27,10 +27,10 @@ Every time you start a new Claude chat, you're starting from scratch:
 ### 1. Choose Your Template
 
 **New to this?** Start here:
-- **[LITE Version](LITE_v1.0.md)** - 5 essential rules, 2-minute setup
+- **[LITE Version](CHAT_INSTRUCTIONS_LITE_v1.0.md)** - 5 essential rules, 2-minute setup
 
 **Want full control?** Go comprehensive:
-- **[FULL Template](FULL_TEMPLATE_v1.0.md)** - 10 rules, extensive customization
+- **[FULL Template](CHAT_INSTRUCTIONS_TEMPLATE_v1.0.md)** - 10 rules, extensive customization
 
 ### 2. Upload to Your Chat
 
@@ -90,8 +90,8 @@ Need inspiration? Check out example instruction files:
 
 | File | Description | Best For |
 |------|-------------|----------|
-| `LITE_v1.0.md` | 5 core rules, minimal setup | First-timers, testing the concept |
-| `FULL_TEMPLATE_v1.0.md` | 10 comprehensive rules | Regular users, complex projects |
+| `CHAT_INSTRUCTIONS_LITE_v1.0.md` | 5 core rules, minimal setup | First-timers, testing the concept |
+| `CHAT_INSTRUCTIONS_TEMPLATE_v1.0.md` | 10 comprehensive rules | Regular users, complex projects |
 | `WHY_USE_INSTRUCTIONS.md` | Detailed benefits guide | Understanding the full value |
 | `examples/` | Domain-specific templates | Finding your starting point |
 
@@ -179,4 +179,4 @@ Thanks to everyone who will contribute improvements and share their customizatio
 
 **Stop repeating yourself. Start working smarter.**
 
-[Download LITE](LITE_v1.0.md) | [Download FULL](FULL_TEMPLATE_v1.0.md) | [Learn Why](WHY_USE_INSTRUCTIONS.md)
+[Download LITE](CHAT_INSTRUCTIONS_LITE_v1.0.md) | [Download FULL](CHAT_INSTRUCTIONS_TEMPLATE_v1.0.md) | [Learn Why](WHY_USE_INSTRUCTIONS.md)
